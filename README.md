@@ -16,7 +16,7 @@
     5. No forget password feature supporting so to test please remember / note the user credentials 
     
     
-# User List Screen:
+# User List Screen: 
     
     On this screen data is displaying from the API endppoint (https://jsonplaceholder.typicode.com/users)
     
